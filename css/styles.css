@@ -5,6 +5,7 @@
   }
 
 body {
+  background-image: url(../images/water2.gif);
 }
 
 .home {
@@ -13,7 +14,7 @@ body {
     top:0;
     left:0;
     width: 100%;
-
+    border-bottom: 10px solid teal;
 }
 
 .content {
