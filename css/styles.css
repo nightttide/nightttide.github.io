@@ -9,12 +9,11 @@ body {
 
 .home {
     float:left;
-    /*padding:2em 4em;*/
+    position:relative;
+    top:0;
+    left:0;
     width: 100%;
-    /*height:calc(100vh - 3em);*/
-    /*background-image: url(../images/birthday.jpg);*/
-    /*background-repeat: no-repeat;*/
-    /*background-size: cover;*/
+
 }
 
 .content {
