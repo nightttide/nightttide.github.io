@@ -1,4 +1,4 @@
-# Wills-Decentralized-Computer
+# Birthday Party Site
 
 ## Introduction 
 
