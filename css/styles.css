@@ -4,6 +4,11 @@
     box-sizing: border-box;
   }
 
+  @font-face {
+    font-family: "MyCommic";
+    src: url(COMIC.TTF) format("truetype");
+  }
+
 body {
   background-image: url(../images/water2.gif);
 }
@@ -41,7 +46,7 @@ body {
 }
 
 .c-page__title {
-  font-family: 'Comic Sans MS';
+  font-family: "MyCommic", Arial, Helvetica, sans-serif;
   background: -o-linear-gradient(
         45deg,
         rgba(255, 0, 0, 1) 0%,
